@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "stream-chat": "^8.11.0",
+    "stream-chat-react": "^10.10.0",
+    "universal-cookie": "^6.1.1",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
+}
